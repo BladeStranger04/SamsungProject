@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">WriteHealRepeat</string>
+    <string name="title_activity_home">Главная страница</string>
+    <string name="title_home">Главная страница</string>
+    <string name="title_dashboard">Лекарства</string>
+    <string name="title_settings">Об проекте</string>
+    <string name="medicine_name">Название лекарства</string>
+    <string name="dosage_summary">Дозировка</string>
+    <string name="add_medicine">Добавить лекарство</string>
+    <string name="string_time">Время</string>
+    <string name="medicine_name_hint">Название лекарства</string>
+    <string name="string_from">Дата</string>
+    <string name="string_schedule">Расписание</string>
+    <string name="pick_a_time">Выбрать время</string>
+    <string name="once_a_day">Один раз</string>
+    <string name="twice_a_day">Два раза</string>
+    <string name="thrice_a_day">Три раза</string>
+    <string name="_4_times_a_day">Четыре раза</string>
+    <string name="_5_times_per_day">Пять раз</string>
+    <string name="number_of_total_doses">Кол-во доз</string>
+    <string name="sample_date">123</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="time_to_take">Время принять&#160;</string>
+    <string name="snooze">Пропустить</string>
+    <string name="dismiss">Отклонить</string>
+    <string name="take">Принять</string>
+    <string name="notification">Уведомление</string>
+    <string name="alarm">Будильник</string>
+    <string name="both">Обе</string>
+    <string name="alert_type">Тип оповещения</string>
+
+</resources>

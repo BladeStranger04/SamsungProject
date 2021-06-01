@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikhaellopez:circularfillableloaders:1.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/867da2d5ced4f9b106ca5ae78343c98f/circularfillableloaders-1.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/867da2d5ced4f9b106ca5ae78343c98f/circularfillableloaders-1.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/867da2d5ced4f9b106ca5ae78343c98f/circularfillableloaders-1.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikhaellopez/circularfillableloaders/1.2.0/cb2f31b37135d9a00baa1672b254b8c5050b5000/circularfillableloaders-1.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikhaellopez/circularfillableloaders/1.2.0/f08aea6ff29e2622c0b3a4200d3b8be94530f47f/circularfillableloaders-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
